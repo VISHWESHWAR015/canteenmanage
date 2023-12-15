@@ -1,0 +1,19 @@
+.order-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .order-table th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .order-table th {
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .order-table td {
+    text-align: right;
+  }
+  
